@@ -2,7 +2,7 @@ package com.yx.valid.model;
 
 /**
  * 用于表单验证的通用分组接口
- * @author ludangxin
+ * @author yx
  * @date 2021/8/5
  */
 public interface ValidationInterface {

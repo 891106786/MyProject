@@ -12,7 +12,7 @@ import static java.lang.annotation.RetentionPolicy.RUNTIME;
 
 /**
  * 验证手机号是否合法
- * @author ludangxin
+ * @author yx
  * @date 2021/8/7
  */
 @Documented

@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 用户信息管理
- * @author ludangxin
+ * @author yx
  * @date 2021/8/5
  */
 @Data

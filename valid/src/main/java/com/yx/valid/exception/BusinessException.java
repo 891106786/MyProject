@@ -2,7 +2,7 @@ package com.yx.valid.exception;
 
 /**
  * 业务异常
- * @author ludangxin
+ * @author yx
  * @date 2021/8/5
  */
 public class BusinessException extends RuntimeException {
